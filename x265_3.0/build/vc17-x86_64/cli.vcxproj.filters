@@ -1,0 +1,98 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="D:\ffmpeg_proj\x265_source_code_analysis\x265_3.0\source\input\input.cpp">
+      <Filter>input</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\ffmpeg_proj\x265_source_code_analysis\x265_3.0\source\input\y4m.cpp">
+      <Filter>input</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\ffmpeg_proj\x265_source_code_analysis\x265_3.0\source\input\yuv.cpp">
+      <Filter>input</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\ffmpeg_proj\x265_source_code_analysis\x265_3.0\source\output\output.cpp">
+      <Filter>output</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\ffmpeg_proj\x265_source_code_analysis\x265_3.0\source\output\raw.cpp">
+      <Filter>output</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\ffmpeg_proj\x265_source_code_analysis\x265_3.0\source\output\reconplay.cpp">
+      <Filter>output</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\ffmpeg_proj\x265_source_code_analysis\x265_3.0\source\output\y4m.cpp">
+      <Filter>output</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\ffmpeg_proj\x265_source_code_analysis\x265_3.0\source\output\yuv.cpp">
+      <Filter>output</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\ffmpeg_proj\x265_source_code_analysis\x265_3.0\source\compat\getopt\getopt.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\ffmpeg_proj\x265_source_code_analysis\x265_3.0\source\x265.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="D:\ffmpeg_proj\x265_source_code_analysis\x265_3.0\source\input\input.h">
+      <Filter>input</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\ffmpeg_proj\x265_source_code_analysis\x265_3.0\source\input\y4m.h">
+      <Filter>input</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\ffmpeg_proj\x265_source_code_analysis\x265_3.0\source\input\yuv.h">
+      <Filter>input</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\ffmpeg_proj\x265_source_code_analysis\x265_3.0\source\output\output.h">
+      <Filter>output</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\ffmpeg_proj\x265_source_code_analysis\x265_3.0\source\output\raw.h">
+      <Filter>output</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\ffmpeg_proj\x265_source_code_analysis\x265_3.0\source\output\reconplay.h">
+      <Filter>output</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\ffmpeg_proj\x265_source_code_analysis\x265_3.0\source\output\y4m.h">
+      <Filter>output</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\ffmpeg_proj\x265_source_code_analysis\x265_3.0\source\output\yuv.h">
+      <Filter>output</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\ffmpeg_proj\x265_source_code_analysis\x265_3.0\source\compat\getopt\getopt.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\ffmpeg_proj\x265_source_code_analysis\x265_3.0\source\x265.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\ffmpeg_proj\x265_source_code_analysis\x265_3.0\source\x265cli.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="D:\ffmpeg_proj\x265_source_code_analysis\x265_3.0\source\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="D:\ffmpeg_proj\x265_source_code_analysis\x265_3.0\COPYING" />
+    <None Include="D:\ffmpeg_proj\x265_source_code_analysis\x265_3.0\build\vc17-x86_64\x265.def">
+      <Filter>Source Files</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="D:\ffmpeg_proj\x265_source_code_analysis\x265_3.0\build\vc17-x86_64\x265.rc">
+      <Filter>Source Files</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{6922C574-B1C4-35EA-A0D6-3ABD15842195}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{829EA501-5C8E-3F8D-9B64-5865582CB282}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="input">
+      <UniqueIdentifier>{CC137F08-9465-3497-A319-B349B45E6287}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="output">
+      <UniqueIdentifier>{D2B47E53-4776-3578-BDBD-42ECA249C904}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

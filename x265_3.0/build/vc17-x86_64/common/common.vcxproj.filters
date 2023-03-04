@@ -1,0 +1,189 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="D:\ffmpeg_proj\x265_source_code_analysis\x265_3.0\source\common\winxp.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\ffmpeg_proj\x265_source_code_analysis\x265_3.0\source\common\primitives.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\ffmpeg_proj\x265_source_code_analysis\x265_3.0\source\common\pixel.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\ffmpeg_proj\x265_source_code_analysis\x265_3.0\source\common\dct.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\ffmpeg_proj\x265_source_code_analysis\x265_3.0\source\common\lowpassdct.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\ffmpeg_proj\x265_source_code_analysis\x265_3.0\source\common\ipfilter.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\ffmpeg_proj\x265_source_code_analysis\x265_3.0\source\common\intrapred.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\ffmpeg_proj\x265_source_code_analysis\x265_3.0\source\common\loopfilter.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\ffmpeg_proj\x265_source_code_analysis\x265_3.0\source\common\constants.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\ffmpeg_proj\x265_source_code_analysis\x265_3.0\source\common\cpu.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\ffmpeg_proj\x265_source_code_analysis\x265_3.0\source\common\version.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\ffmpeg_proj\x265_source_code_analysis\x265_3.0\source\common\threading.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\ffmpeg_proj\x265_source_code_analysis\x265_3.0\source\common\threadpool.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\ffmpeg_proj\x265_source_code_analysis\x265_3.0\source\common\wavefront.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\ffmpeg_proj\x265_source_code_analysis\x265_3.0\source\common\md5.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\ffmpeg_proj\x265_source_code_analysis\x265_3.0\source\common\bitstream.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\ffmpeg_proj\x265_source_code_analysis\x265_3.0\source\common\yuv.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\ffmpeg_proj\x265_source_code_analysis\x265_3.0\source\common\shortyuv.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\ffmpeg_proj\x265_source_code_analysis\x265_3.0\source\common\picyuv.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\ffmpeg_proj\x265_source_code_analysis\x265_3.0\source\common\common.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\ffmpeg_proj\x265_source_code_analysis\x265_3.0\source\common\param.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\ffmpeg_proj\x265_source_code_analysis\x265_3.0\source\common\frame.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\ffmpeg_proj\x265_source_code_analysis\x265_3.0\source\common\framedata.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\ffmpeg_proj\x265_source_code_analysis\x265_3.0\source\common\cudata.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\ffmpeg_proj\x265_source_code_analysis\x265_3.0\source\common\slice.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\ffmpeg_proj\x265_source_code_analysis\x265_3.0\source\common\lowres.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\ffmpeg_proj\x265_source_code_analysis\x265_3.0\source\common\piclist.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\ffmpeg_proj\x265_source_code_analysis\x265_3.0\source\common\predict.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\ffmpeg_proj\x265_source_code_analysis\x265_3.0\source\common\scalinglist.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\ffmpeg_proj\x265_source_code_analysis\x265_3.0\source\common\quant.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\ffmpeg_proj\x265_source_code_analysis\x265_3.0\source\common\deblock.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="D:\ffmpeg_proj\x265_source_code_analysis\x265_3.0\source\common\winxp.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\ffmpeg_proj\x265_source_code_analysis\x265_3.0\source\common\primitives.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\ffmpeg_proj\x265_source_code_analysis\x265_3.0\source\common\constants.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\ffmpeg_proj\x265_source_code_analysis\x265_3.0\source\common\cpu.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\ffmpeg_proj\x265_source_code_analysis\x265_3.0\source\common\threading.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\ffmpeg_proj\x265_source_code_analysis\x265_3.0\source\common\threadpool.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\ffmpeg_proj\x265_source_code_analysis\x265_3.0\source\common\wavefront.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\ffmpeg_proj\x265_source_code_analysis\x265_3.0\source\common\md5.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\ffmpeg_proj\x265_source_code_analysis\x265_3.0\source\common\bitstream.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\ffmpeg_proj\x265_source_code_analysis\x265_3.0\source\common\yuv.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\ffmpeg_proj\x265_source_code_analysis\x265_3.0\source\common\shortyuv.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\ffmpeg_proj\x265_source_code_analysis\x265_3.0\source\common\picyuv.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\ffmpeg_proj\x265_source_code_analysis\x265_3.0\source\common\common.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\ffmpeg_proj\x265_source_code_analysis\x265_3.0\source\common\param.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\ffmpeg_proj\x265_source_code_analysis\x265_3.0\source\common\frame.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\ffmpeg_proj\x265_source_code_analysis\x265_3.0\source\common\framedata.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\ffmpeg_proj\x265_source_code_analysis\x265_3.0\source\common\cudata.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\ffmpeg_proj\x265_source_code_analysis\x265_3.0\source\common\slice.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\ffmpeg_proj\x265_source_code_analysis\x265_3.0\source\common\lowres.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\ffmpeg_proj\x265_source_code_analysis\x265_3.0\source\common\mv.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\ffmpeg_proj\x265_source_code_analysis\x265_3.0\source\common\piclist.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\ffmpeg_proj\x265_source_code_analysis\x265_3.0\source\common\predict.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\ffmpeg_proj\x265_source_code_analysis\x265_3.0\source\common\scalinglist.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\ffmpeg_proj\x265_source_code_analysis\x265_3.0\source\common\quant.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\ffmpeg_proj\x265_source_code_analysis\x265_3.0\source\common\contexts.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\ffmpeg_proj\x265_source_code_analysis\x265_3.0\source\common\deblock.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="D:\ffmpeg_proj\x265_source_code_analysis\x265_3.0\source\common\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{6922C574-B1C4-35EA-A0D6-3ABD15842195}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{829EA501-5C8E-3F8D-9B64-5865582CB282}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

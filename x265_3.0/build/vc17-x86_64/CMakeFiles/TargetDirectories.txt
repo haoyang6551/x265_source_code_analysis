@@ -1,0 +1,11 @@
+D:/ffmpeg_proj/x265_source_code_analysis/x265_3.0/build/vc17-x86_64/CMakeFiles/x265-static.dir
+D:/ffmpeg_proj/x265_source_code_analysis/x265_3.0/build/vc17-x86_64/CMakeFiles/x265-shared.dir
+D:/ffmpeg_proj/x265_source_code_analysis/x265_3.0/build/vc17-x86_64/CMakeFiles/uninstall.dir
+D:/ffmpeg_proj/x265_source_code_analysis/x265_3.0/build/vc17-x86_64/CMakeFiles/cli.dir
+D:/ffmpeg_proj/x265_source_code_analysis/x265_3.0/build/vc17-x86_64/CMakeFiles/INSTALL.dir
+D:/ffmpeg_proj/x265_source_code_analysis/x265_3.0/build/vc17-x86_64/CMakeFiles/ALL_BUILD.dir
+D:/ffmpeg_proj/x265_source_code_analysis/x265_3.0/build/vc17-x86_64/CMakeFiles/ZERO_CHECK.dir
+D:/ffmpeg_proj/x265_source_code_analysis/x265_3.0/build/vc17-x86_64/encoder/CMakeFiles/encoder.dir
+D:/ffmpeg_proj/x265_source_code_analysis/x265_3.0/build/vc17-x86_64/encoder/CMakeFiles/INSTALL.dir
+D:/ffmpeg_proj/x265_source_code_analysis/x265_3.0/build/vc17-x86_64/common/CMakeFiles/common.dir
+D:/ffmpeg_proj/x265_source_code_analysis/x265_3.0/build/vc17-x86_64/common/CMakeFiles/INSTALL.dir
